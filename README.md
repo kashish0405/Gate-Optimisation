@@ -9,7 +9,7 @@ There is a mismatch between the operations defined by the 1- and 2-qubit logical
 **Reducing latency** will prove to be an important contributor in enabling quantum computing applications.
 
 ## Aim of the Project - 
-The aim of my project was to optimise in particular swap gate usng QOC (Creating custom control pulses optimized for the aggregate (instead of individual 1- and 2-qubit operations)) 
+The aim of my project was to optimise in particular swap gate using QOC (Creating custom control pulses optimized for the aggregate (instead of individual 1- and 2-qubit operations)) 
 
 ### Why Swap Gate?
 IBM Q (and other machines) do not provide full connectivity among qubits. Thus Swap gates are required to move qubit state where it is needed. Hence it becomes an important gate whose optimised compilation is relatively unexplored.
